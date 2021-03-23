@@ -1,0 +1,139 @@
+body {background-color:rgba(224, 218, 228, 0.938);
+}
+  
+  
+ .a {
+            background-color: rgba(24, 170, 255, 0.925);
+            width: 100%;
+            height: 50px;
+            border: 2px,solid;
+        }
+
+            .a input {
+                
+                background-image: url(ser.jpg);
+                background-size: 25px;
+                background-repeat: no-repeat;
+                background-position: left;
+                border-radius: 20px;
+                width: 200px;
+                padding-left: 25px;
+            }
+
+        .b {
+            float: right;
+            margin: 20px;
+            background-image: url("WhatsApp\ Image\ 2021-03-21\ at\ 1.22.57\ AM.jpeg");
+        }
+
+        .h {
+            list-style-type: none;
+        }
+
+        li {
+            display: inline;
+            margin: 20px;
+            color: #000000;
+        }
+
+        .h li:hover {
+            text-decoration: none;
+            background-color: rgb(180, 206, 151);
+            border: 2px solid;
+            border-radius: 50%;
+            padding: 8px 8px;
+            color: rgb(0, 0, 0);
+        }
+
+        ul a {
+            text-decoration: none;
+        }
+
+        .up {
+            clear: both;
+            background-image:  url(r2.jpg );
+            background-size: 100%;
+            background-repeat: no-repeat;
+            text-align: center;
+            height: 600px;
+        }
+
+        .w {
+
+          color: rgb(7, 63, 218);
+            text-decoration: none;
+            background-color:  none;
+            border-radius: 10%;
+            padding: 10px 10px;
+        }
+
+            .w:hover {
+                background-color: #0eca46;
+                color: #2c280d;
+            }
+
+        .up2 {
+            height: 500px;
+            padding: 20px;
+        }
+
+            .up2 div {
+                width: 20%;
+                height: 400px;
+                margin-right: 30px;
+                float: right;
+                background-color: rgba(202, 183, 183, 0.952);
+            }
+
+                .up2 div :hover {
+                    opacity: 0.4;
+                }
+
+            .up2 .eb {
+                height: 150px;
+            }
+
+            .up2 div .pen {
+                position: absolute;
+                background-color: hsl(36, 100%, 55%);
+                width: auto;
+                height: auto;
+            }
+
+        .f {
+            float: right;
+            height: 60px;
+        }
+
+        i {
+            background-color: rgba(48, 170, 252, 0.911);
+            border-radius: 50%;
+            padding: 10px;
+        }
+
+        h3 {
+            font-family: 'Arial Unicode MS';
+            text-align: center;
+        }
+
+        hr {
+            width: 80px;
+            height: 8px;
+            background-color: rgba(255, 9, 9, 0.952);
+            border-radius: 100% 0px 50%;
+            margin-top: -17px;
+        }
+
+        .but {
+            border-radius: 60px;
+            float: right;
+            margin: 10%;
+            background-color: #c3eb83;
+        }
+
+        .sh {
+            font-family: Forte;
+            padding: 20px;
+            background-color: rgba(36, 184, 184, 0.856);
+            border-radius: 50%;
+        }
